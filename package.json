@@ -1,0 +1,24 @@
+{
+  "name": "fitbit-cli",
+  "version": "1.0.0",
+  "description": "CLI to manage personal fitness goals and data from the Linux terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antimike/fitbit-cli.git"
+  },
+  "keywords": [
+    "fitbit",
+    "terminal",
+    "cli"
+  ],
+  "author": "Michael Haynes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antimike/fitbit-cli/issues"
+  },
+  "homepage": "https://github.com/antimike/fitbit-cli#readme"
+}

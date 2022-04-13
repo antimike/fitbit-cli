@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/antimike/fitbit-cli/issues"
   },
-  "homepage": "https://github.com/antimike/fitbit-cli#readme"
+  "homepage": "https://github.com/antimike/fitbit-cli#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
 }

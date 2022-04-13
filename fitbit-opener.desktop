@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Fitbit CLI Scheme Handler
+Exec=open-fitbit-cli.zsh %u
+StartupNotify=false
+MimeType=x-scheme-handler/fitbit-cli

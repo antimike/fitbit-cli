@@ -1,0 +1,16 @@
+{
+    "base": {
+        "auth": "https://www.fitbit.com",
+        "api": "https://api.fitbit.com",
+        "redirect": "fitbit-cli://home"
+    },
+    "endpoints": {
+        "auth": {
+            "authorize": "/oauth2/authorize"
+        },
+        "api": {
+            "refresh": "/oauth2/token"
+        },
+        "redirect": {}
+    }
+}
